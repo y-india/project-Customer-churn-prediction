@@ -1,0 +1,11 @@
+# data
+data/*.csv
+
+# models
+models/*.pkl
+
+# predictions
+predictions/*.csv
+
+# jupyter checkpoints
+**/.ipynb_checkpoints/

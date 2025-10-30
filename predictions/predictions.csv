@@ -1,5 +1,0 @@
-Gender,Age,Senior Citizen,Married,Dependents,Referred a Friend,Number of Referrals,Tenure in Months,Phone Service,Avg Monthly Long Distance Charges,Multiple Lines,Internet Service,Avg Monthly GB Download,Online Security,Online Backup,Device Protection Plan,Premium Tech Support,Streaming TV,Streaming Movies,Streaming Music,Unlimited Data,Paperless Billing,Monthly Charge,Total Charges,Total Refunds,Total Extra Data Charges,Total Long Distance Charges,Satisfaction Score,CLTV,Contract_One Year,Contract_Two Year,Payment Method_Credit Card,Payment Method_Mailed Check,churn_prob,churn_pred
-1,56,1,1,1,1,5,12,1,1200.0,1,1,3.1,1,1,1,1,1,1,1,1,1,120.0,12000.0,3.0,13.0,45.0,77.0,4000.0,0,1,0,1,0.10666666666666667,0
-0,24,1,0,0,1,0,3,1,1200.0,0,1,1.0,1,1,1,1,1,1,1,1,1,120.0,12000.0,3.0,13.0,45.0,77.0,4000.0,1,0,1,0,0.13333333333333333,0
-0,24,1,0,0,1,0,3,1,1200.0,0,1,1.0,1,1,1,1,1,1,1,1,1,120.0,12000.0,3.0,13.0,45.0,56.0,4000.0,1,0,1,0,0.13333333333333333,0
-0,24,1,0,0,1,0,3,1,1200.0,0,1,1.0,1,1,1,1,1,1,1,1,1,120.0,12000.0,3.0,13.0,45.0,56.0,4000.0,1,0,1,0,0.13333333333333333,0
