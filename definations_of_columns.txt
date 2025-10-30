@@ -1,0 +1,64 @@
+🧑‍💼 Customer Demographics
+- Customer ID: Unique identifier for each customer.
+- Gender: Male or Female.
+- Age: Customer’s age in years.
+- Under 30: Boolean indicating if the customer is younger than 30.
+- Senior Citizen: Boolean or binary flag (1/0) indicating if the customer is a senior.
+- Married: Whether the customer is married.
+- Dependents: Whether the customer has dependents.
+- Number of Dependents: Count of dependents.
+
+
+🌍 Location Information
+- Country, State, City: Geographical location of the customer.
+- Zip Code: Postal code.
+- Latitude, Longitude: Geospatial coordinates.
+- Population: Population of the customer’s area.
+
+
+📅 Time & Referral Data
+- Quarter: Fiscal quarter when data was recorded.
+- Referred a Friend: Whether the customer referred someone.
+- Number of Referrals: Count of successful referrals.
+- Tenure in Months: Duration of customer’s relationship with the company.
+
+
+🎁 Offers & Services
+- Offer: Promotional offer availed by the customer.
+- Phone Service: Whether the customer has phone service.
+- Avg Monthly Long Distance Charges: Average monthly charges for long-distance calls.
+- Multiple Lines: Whether the customer has multiple phone lines.
+
+
+🌐 Internet & Streaming
+- Internet Service: Whether the customer has internet service.
+- Internet Type: DSL, Fiber, etc.
+- Avg Monthly GB Download: Average data usage per month.
+- Online Security, Online Backup, Device Protection Plan, Premium Tech Support: Add-on services.
+- Streaming TV, Streaming Movies, Streaming Music: Access to entertainment services.
+- Unlimited Data: Whether the customer has unlimited data.
+
+
+📄 Billing & Payment
+- Contract: Type of contract (Month-to-month, One year, Two year).
+- Paperless Billing: Whether billing is digital.
+- Payment Method: Credit card, bank transfer, etc.
+
+
+💰 Financial Metrics
+- Monthly Charge: Monthly bill amount.
+- Total Charges: Total amount billed.
+- Total Refunds: Total refunded to the customer.
+- Total Extra Data Charges: Charges for data overages.
+- Total Long Distance Charges: Cumulative long-distance charges.
+- Total Revenue: Total revenue from the customer.
+
+
+😊 Satisfaction & Churn
+- Satisfaction Score: Rating of customer satisfaction.
+- Customer Status: Active, Inactive, etc.
+- Churn Label: Whether the customer has churned.
+- Churn Score: Likelihood of churn (numerical).
+- CLTV (Customer Lifetime Value): Predicted lifetime revenue.
+- Churn Category: Type of churn (Voluntary, Involuntary).
+- Churn Reason: Reason for leaving (e.g., price, service quality).

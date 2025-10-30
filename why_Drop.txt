@@ -1,0 +1,34 @@
+1. Customer ID
+
+Reason: Unique identifier. Does not contain any pattern that helps predict churn.
+
+Customer ID → unique key, no predictive value
+
+2. Geolocation fields
+
+Reason: Too granular for churn prediction in this dataset. Adds noise, no business logic benefit.
+
+Country → same region for most customers, no variation  
+State → too granular, no churn pattern  
+City → unnecessary location granularity  
+Zip Code → location noise, not behavior  
+Latitude → raw coordinates, useless for churn logic  
+Longitude → same as above  
+Population → not linked to individual churn behavior
+
+3. Post-churn leakage columns
+
+Reason: These fields reveal churn after it already happened, making the model cheat. Must remove.
+
+Customer Status → directly tells churn outcome  
+Churn Score → calculated after churn event  
+Churn Category → reason label after churn confirmed  
+Churn Reason → tells exactly why they churned (leakage)
+
+4. Some more columns
+Quarter → only one value
+Total Revenue → similar meaning to Total Charges (redundant)
+Under 30 → derived from Age, redundant feature
+Number of Dependents → similar info to Dependents yes/no column
+
+
