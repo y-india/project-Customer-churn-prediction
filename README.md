@@ -14,7 +14,7 @@ This project helps identify customers at high risk of churn so the business can:
 
 ## 👤 Author
 **Yuvraj**  
-17-year-old aspiring ML engineer from India  
+Aspiring ML engineer from India  
 📧 Email: **y.india.main@gmail.com**
 
 ## ✅ Steps Followed
